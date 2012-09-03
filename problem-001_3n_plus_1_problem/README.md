@@ -17,15 +17,24 @@ output)
 exam)
 
 input:
+
 1 10
+
 100 200
+
 201 210
+
 900 1000
 
+
 output:
+
 1 10 20
+
 100 200 125
+
 201 210 89
+
 900 1000 174
 
 http://www.spoj.pl/problems/PROBTNPO/
