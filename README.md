@@ -3,8 +3,10 @@ programming-challenges
 
 solve the problems of programming-challenges [isbn: 0387001638 / (Translation 9788979142884)]
 
-http://acm.uva.es/
-http://uva.onlinejudge.org/
+* http://acm.uva.es/
+* http://uva.onlinejudge.org/
+* http://www.spoj.pl/
+
 
 how to upload on uva site?
 - added this comment
@@ -15,5 +17,7 @@ how to upload on uva site?
 Tip
 
 /* @BEGIN OF SOURCE CODE */
+
   ...sources...
+  
 /* @END OF SOURCE CODE */
