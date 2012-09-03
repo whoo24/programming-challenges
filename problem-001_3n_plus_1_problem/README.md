@@ -27,3 +27,5 @@ output:
 100 200 125
 201 210 89
 900 1000 174
+
+http://www.spoj.pl/problems/PROBTNPO/
